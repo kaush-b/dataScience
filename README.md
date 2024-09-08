@@ -20,4 +20,4 @@ SQL and Python, which are also commonly required, reflecting their essential rol
 
 These skills are critical for candidates looking to secure high-paying positions in the Indian data science job market.
 
-![Top skills required:](assets\top_skills.png)
+![Top skills required:](assets/top_skills.png)
